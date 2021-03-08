@@ -1,0 +1,97 @@
+[
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\cmdutils.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\cmdutils.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/cmdutils.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\ffmpeg.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/ffmpeg.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\ffmpeg_filter.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_filter.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/ffmpeg_filter.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\ffmpeg_opt.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_opt.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/ffmpeg_opt.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg_cmd.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg_cmd.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg_cmd.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\ffprobe.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffprobe.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/ffprobe.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg\\ffmpeg_hw.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_hw.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg/ffmpeg_hw.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\audio_player.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\audio_player.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/audio_player.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\openSL_audio_player.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\openSL_audio_player.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/openSL_audio_player.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\video_player.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\video_player.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/video_player.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffmpeg_pusher.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg_pusher.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffmpeg_pusher.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\packet_queue.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\packet_queue.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/packet_queue.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\media_player.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\media_player.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/media_player.cpp"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\video_filter.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\video_filter.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/video_filter.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\fast_start.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\fast_start.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/fast_start.c"
+},
+
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/armeabi-v7a  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\media-handle.dir\\src\\main\\cpp\\ffprobe_cmd.cpp.o -c D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffprobe_cmd.cpp",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/app/src/main/cpp/ffprobe_cmd.cpp"
+}
+]

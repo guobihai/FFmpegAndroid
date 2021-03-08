@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ijkOpr/FFmpegAndroid-master/libmp3/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3_lite_EXPORTS -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\mp3-lite.dir\\src\\main\\cpp\\audio_lame.c.o   -c D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\src\\main\\cpp\\audio_lame.c",
+  "file": "D:/ijkOpr/FFmpegAndroid-master/libmp3/src/main/cpp/audio_lame.c"
+}
+]

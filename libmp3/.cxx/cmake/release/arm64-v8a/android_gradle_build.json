@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "D:/ijkOpr/FFmpegAndroid-master/libmp3/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3_lite_EXPORTS -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mp3-lite-Release-arm64-v8a": {
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" mp3-lite",
+      "buildType": "release",
+      "toolchain": "3175079730",
+      "abi": "arm64-v8a",
+      "artifactName": "mp3-lite",
+      "files": [
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\src\\main\\cpp\\audio_lame.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmp3-lite.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\libs\\arm64-v8a\\libmp3lame.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "3175079730": {
+      "cCompilerExecutable": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

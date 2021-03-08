@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mp3-lite-Debug-armeabi-v7a": {
+      "artifactName": "mp3-lite",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\debug\\armeabi-v7a\" mp3-lite",
+      "abi": "armeabi-v7a",
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libmp3-lite.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\libs\\armeabi-v7a\\libmp3lame.so"
+      ]
+    }
+  }
+}

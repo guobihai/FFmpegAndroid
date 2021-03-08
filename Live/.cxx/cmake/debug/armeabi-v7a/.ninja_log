@@ -1,0 +1,7 @@
+# ninja log v5
+0	50	0	clean	21d1354076d053c9
+0	56	0	clean	21d1354076d053c9
+1	756	636280939	CMakeFiles/live.dir/src/main/cpp/AudioStream.cpp.o	9632195da5ef48e
+43	784	636280939	CMakeFiles/live.dir/src/main/cpp/VideoStream.cpp.o	c9ae093639c09e5a
+101	1847	636280940	CMakeFiles/live.dir/src/main/cpp/RtmpPusher.cpp.o	1fbcba510ae6811e
+1848	2185	636280941	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/liblive.so	f8690113cd64128

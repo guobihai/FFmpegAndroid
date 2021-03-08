@@ -1,0 +1,20 @@
+# ninja log v5
+0	54	0	clean	21d1354076d053c9
+0	52	0	clean	21d1354076d053c9
+240	645	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg_cmd.c.o	b619beda604e8bd1
+89	719	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/ffmpeg_hw.c.o	4ab1dd819fd46f12
+301	753	636281018	CMakeFiles/media-handle.dir/src/main/cpp/packet_queue.cpp.o	d7c606b070169585
+31	902	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/ffmpeg_filter.c.o	e3cc9ccf5ae731ce
+1	1053	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/cmdutils.c.o	147bf27e8baf0317
+129	1177	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/ffmpeg_opt.c.o	74e6116de2b0a4b8
+178	1226	636281018	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/ffprobe.c.o	d2a8b71852907236
+59	1260	636281019	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg/ffmpeg.c.o	3f79cfb27b51f3bc
+753	1336	636281019	CMakeFiles/media-handle.dir/src/main/cpp/audio_player.cpp.o	9f553bc314476999
+719	1360	636281019	CMakeFiles/media-handle.dir/src/main/cpp/video_player.cpp.o	d15f3d5e3413532d
+646	1383	636281019	CMakeFiles/media-handle.dir/src/main/cpp/openSL_audio_player.cpp.o	b3f5ff9c3f06868c
+1185	1468	636281019	CMakeFiles/media-handle.dir/src/main/cpp/ffprobe_cmd.cpp.o	5c308e3639564892
+1054	1515	636281019	CMakeFiles/media-handle.dir/src/main/cpp/video_filter.c.o	4cdfb037ee8abd23
+1227	1544	636281019	CMakeFiles/media-handle.dir/src/main/cpp/fast_start.c.o	4175ce0228631b08
+903	1699	636281019	CMakeFiles/media-handle.dir/src/main/cpp/ffmpeg_pusher.cpp.o	499c4b97de9a1634
+1261	1704	636281019	CMakeFiles/media-handle.dir/src/main/cpp/media_player.cpp.o	7f4ab1027c2f69b
+1704	2058	636281019	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmedia-handle.so	6e27798a89d7d1ae

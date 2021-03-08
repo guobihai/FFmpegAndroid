@@ -1,0 +1,124 @@
+{
+  "stringTable": {
+    "0": "D:/ijkOpr/FFmpegAndroid-master/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/arm64-v8a -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmedia_handle_EXPORTS -I../../../../src/main/cpp -I../../../../src/main/cpp/include -I../../../../src/main/cpp/include/arm64-v8a -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\app\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "media-handle-Debug-arm64-v8a": {
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" media-handle",
+      "buildType": "debug",
+      "toolchain": "2567836324",
+      "abi": "arm64-v8a",
+      "artifactName": "media-handle",
+      "files": [
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\cmdutils.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_filter.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_opt.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg_cmd.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffprobe.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg\\ffmpeg_hw.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\video_filter.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\fast_start.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\audio_player.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\openSL_audio_player.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\video_player.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffmpeg_pusher.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\packet_queue.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\media_player.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\src\\main\\cpp\\ffprobe_cmd.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libmedia-handle.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\app\\libs\\arm64-v8a\\libffmpeg.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "2567836324": {
+      "cCompilerExecutable": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

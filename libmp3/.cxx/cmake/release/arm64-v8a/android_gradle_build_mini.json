@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mp3-lite-Release-arm64-v8a": {
+      "artifactName": "mp3-lite",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\.cxx\\cmake\\release\\arm64-v8a\" mp3-lite",
+      "abi": "arm64-v8a",
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmp3-lite.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\libmp3\\libs\\arm64-v8a\\libmp3lame.so"
+      ]
+    }
+  }
+}

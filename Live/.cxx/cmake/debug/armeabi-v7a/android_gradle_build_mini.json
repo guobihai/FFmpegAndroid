@@ -1,0 +1,24 @@
+{
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "live-Debug-armeabi-v7a": {
+      "artifactName": "live",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\armeabi-v7a\" live",
+      "abi": "armeabi-v7a",
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\liblive.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\armeabi-v7a\\libx264.a",
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\armeabi-v7a\\libfaac.a",
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\armeabi-v7a\\librtmp.a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "stringTable": {
+    "0": "D:/ijkOpr/FFmpegAndroid-master/Live/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dlive_EXPORTS -I../../../../main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=gnu++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\CMakeLists.txt",
+    "D:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "live-Debug-arm64-v8a": {
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\ijkOpr\\FFmpegAndroid-master\\Live\\.cxx\\cmake\\debug\\arm64-v8a\" live",
+      "buildType": "debug",
+      "toolchain": "639220046",
+      "abi": "arm64-v8a",
+      "artifactName": "live",
+      "files": [
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\src\\main\\cpp\\AudioStream.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\src\\main\\cpp\\VideoStream.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\src\\main\\cpp\\RtmpPusher.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\liblive.so",
+      "runtimeFiles": [
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\arm64-v8a\\libx264.a",
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\arm64-v8a\\libfaac.a",
+        "D:\\ijkOpr\\FFmpegAndroid-master\\Live\\libs\\arm64-v8a\\librtmp.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "639220046": {
+      "cppCompilerExecutable": "D:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

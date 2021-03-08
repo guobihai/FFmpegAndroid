@@ -1,0 +1,9 @@
+# ninja log v5
+0	753	636280672	CMakeFiles/mp3-lite.dir/src/main/cpp/audio_lame.c.o	84ad31bca0befabd
+754	1258	636280673	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmp3-lite.so	3469bfe4e4de62cf
+0	50	0	clean	21d1354076d053c9
+1	221	636280752	CMakeFiles/mp3-lite.dir/src/main/cpp/audio_lame.c.o	84ad31bca0befabd
+222	426	636280752	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmp3-lite.so	3469bfe4e4de62cf
+1	52	0	clean	21d1354076d053c9
+1	188	636280947	CMakeFiles/mp3-lite.dir/src/main/cpp/audio_lame.c.o	84ad31bca0befabd
+188	385	636280947	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmp3-lite.so	3469bfe4e4de62cf

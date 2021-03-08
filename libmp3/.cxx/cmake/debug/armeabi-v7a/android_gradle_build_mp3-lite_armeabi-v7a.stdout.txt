@@ -1,0 +1,22 @@
+ninja: Entering directory `D:\ijkOpr\FFmpegAndroid-master\libmp3\.cxx\cmake\debug\armeabi-v7a'
+[1/2] Building C object CMakeFiles/mp3-lite.dir/src/main/cpp/audio_lame.c.o
+../../../../src/main/cpp/audio_lame.c:142:46: warning: passing 'jbyte *' (aka 'signed char *') to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+                                    samples, j_mp3buf, mp3buf_size);
+                                             ^~~~~~~~
+../../../../src/main/cpp/lame.h:720:29: note: passing argument to parameter 'mp3buf' here
+        unsigned char*      mp3buf,        /* pointer to encoded MP3 stream */
+                            ^
+../../../../src/main/cpp/audio_lame.c:160:58: warning: passing 'jbyte *' (aka 'signed char *') to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+                                                samples, j_mp3buf, mp3buf_size);
+                                                         ^~~~~~~~
+../../../../src/main/cpp/lame.h:737:29: note: passing argument to parameter 'mp3buf' here
+        unsigned char*      mp3buf,        /* pointer to encoded MP3 stream */
+                            ^
+../../../../src/main/cpp/audio_lame.c:174:41: warning: passing 'jbyte *' (aka 'signed char *') to parameter of type 'unsigned char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+    int result = lame_encode_flush(glf, j_mp3buf, mp3buf_size);
+                                        ^~~~~~~~
+../../../../src/main/cpp/lame.h:858:30: note: passing argument to parameter 'mp3buf' here
+        unsigned char*       mp3buf, /* pointer to encoded MP3 stream         */
+                             ^
+3 warnings generated.
+[2/2] Linking C shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\libmp3-lite.so

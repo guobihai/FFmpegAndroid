@@ -1,0 +1,15 @@
+# ninja log v5
+1	600	636280673	CMakeFiles/live.dir/src/main/cpp/AudioStream.cpp.o	4e7f1ed30711e5c1
+344	695	636280674	CMakeFiles/live.dir/src/main/cpp/VideoStream.cpp.o	9d1bc806c5963f4a
+317	1053	636280674	CMakeFiles/live.dir/src/main/cpp/RtmpPusher.cpp.o	b40001e9d60a8298
+1054	1533	636280674	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/liblive.so	51d752bbd6cd8926
+0	51	0	clean	21d1354076d053c9
+2	236	636280753	CMakeFiles/live.dir/src/main/cpp/AudioStream.cpp.o	4e7f1ed30711e5c1
+85	338	636280753	CMakeFiles/live.dir/src/main/cpp/VideoStream.cpp.o	9d1bc806c5963f4a
+58	700	636280753	CMakeFiles/live.dir/src/main/cpp/RtmpPusher.cpp.o	b40001e9d60a8298
+700	996	636280753	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/liblive.so	51d752bbd6cd8926
+1	54	0	clean	21d1354076d053c9
+2	347	636280941	CMakeFiles/live.dir/src/main/cpp/AudioStream.cpp.o	4e7f1ed30711e5c1
+36	435	636280941	CMakeFiles/live.dir/src/main/cpp/VideoStream.cpp.o	9d1bc806c5963f4a
+129	962	636280942	CMakeFiles/live.dir/src/main/cpp/RtmpPusher.cpp.o	b40001e9d60a8298
+962	1272	636280942	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/liblive.so	51d752bbd6cd8926
